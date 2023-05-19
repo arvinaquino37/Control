@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Control</string>
+    <string name="title_activity_login">Control</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid Email</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    
+    <string-array name="privileges">
+        <item>FGS</item>
+        <item>Maintenance</item>
+        <item>Prof</item>
+    </string-array>
+
+    <string-array name="aircon">
+        <item>Aircon 1</item>
+        <item>Aircon 2</item>
+
+    </string-array>
+    <string-array name="rooms">room
+        <item>Room 302</item>
+        <item>Room 303</item>
+
+    </string-array>
+
+
+</resources>
